@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me ... manjuscse2017@gmail.com
+- 📫 How to reach me ... manjuscse27@gmail.com
 
 <!---
 ManjunathCSE2017/ManjunathCSE2017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
