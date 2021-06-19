@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ManjunathCSE2017
-- 👀 I’m interested in python
+- 👋 Hi, I’m @ManjunathSirivela
+- 👀 I’m interested in python,java,Database,SQL
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me ... manjuscse27@gmail.com
